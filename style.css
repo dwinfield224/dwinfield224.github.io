@@ -4,7 +4,7 @@
         }  
         
         body {
-            background-image: uri(../img/mybackground.jpg);
+            background-image: url(../img/mybackground.jpg);
         }
             
 
