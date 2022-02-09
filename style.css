@@ -5,6 +5,8 @@
         
         body {
             backgroundcolor(black);
+            backgorund-image url (mybackground.jpg);
+         <p> color:red; </p>
         }
             
 
